@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 1: March 27, 2019
+### Day 1: March 17, 2019
 
 **Today's Progress**: 
 1. Searched about lambda in list comprehension and `functools.partial()`.
@@ -17,3 +17,15 @@ function in list can be called as I intend.
 **Link(s) to work**
 1. [Lambda in list comprehension](https://github.com/kde6260/Today-I-Learned/blob/master/python/foundations/sequences.ipynb)
 2. [auto-commit in Django](https://github.com/kde6260/Today-I-Learned/blob/master/django/auto-commit.md)
+
+
+### Day 2: March 19, 2019
+
+**Today's Progress**: 
+1. Learned diffrence between `set` and `frozenset` in python.
+2. Learned why key to be hashed should be immutable.
+
+
+**Link(s) to work**
+1. [set in python](https://github.com/kde6260/Today-I-Learned/blob/master/python/foundations/set.ipynb)
+2. [hashable, immutable](https://stackoverflow.com/questions/2671376/hashable-immutable)
