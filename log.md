@@ -29,3 +29,14 @@ function in list can be called as I intend.
 **Link(s) to work**
 1. [set in python](https://github.com/kde6260/Today-I-Learned/blob/master/python/foundations/set.ipynb)
 2. [hashable, immutable](https://stackoverflow.com/questions/2671376/hashable-immutable)
+
+
+
+### Day 3: March 20, 2019
+
+**Today's Progress**: 
+1. Learned how hashing algorithm is applied to python's dictionary.
+
+
+**Link(s) to work**
+1. [dictionary and hash](https://github.com/kde6260/Today-I-Learned/blob/master/python/foundations/dictionary-and-hash.ipynb)
