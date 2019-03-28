@@ -40,3 +40,13 @@ function in list can be called as I intend.
 
 **Link(s) to work**
 1. [dictionary and hash](https://github.com/kde6260/Today-I-Learned/blob/master/python/foundations/dictionary-and-hash.ipynb)
+
+
+### Day 4: March 28, 2019
+
+**Today's Progress**: 
+1. Solved an algorithm quiz using `all()` and `index()` in python.
+
+
+**Link(s) to work**
+1. [skill tress answer](https://github.com/kde6260/Today-I-Learned/blob/master/algorithm/Programmers/skill-trees.md)
