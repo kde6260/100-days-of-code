@@ -50,3 +50,18 @@ function in list can be called as I intend.
 
 **Link(s) to work**
 1. [skill tress answer](https://github.com/kde6260/Today-I-Learned/blob/master/algorithm/Programmers/skill-trees.md)
+
+
+### Day 5: March 31, 2019
+
+**Today's Progress**: 
+1. Learned about dictionary in Python little more deeply.
+
+**Thoughts** 
+1. Realized dictionary in python is one of mapping object.
+2. Learned what `__mapping__()` method is. It needs to be defined when there is no available key so that `__getitem__()` is called.
+3. Learned the usage of `setdefault()`.
+
+**Link(s) to work**
+1. [about dict](https://t.co/qouPVmMSE4)
+
